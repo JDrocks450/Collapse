@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/IBUBBLES.gif</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/IHIGHLGT.png</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/ILEVELBG.png</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/ILEVELNUM.gif</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/IMAGE4.png</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/IMAGE5.png</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/IMAGE6.png</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/IMAGE8.gif</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/ISTARTBTN.gif</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/ISTARTDLG.gif</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/LEVELCH1.gif</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/LEVELCH2.gif</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/LEVELCH3.gif</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/LEVELCH4.gif</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/LEVELCH5.gif</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/LEVELCH6.gif</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Assets/SprSheet.png</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Backgrounds/IMAGE1.jpg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Backgrounds/IMAGE12.jpg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Backgrounds/IMAGE2.png</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Music/MUSIC18.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Music/MUSIC19.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Music/MUSIC20.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Music/MUSIC21.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/SFX/AANCHOR.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/SFX/ABADHIT.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/SFX/ABBB.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/SFX/ABLCLEAR.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/SFX/ABLSLIDE.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/SFX/ABNSALLCLR.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/SFX/ABNSBIGCK.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/SFX/ABNSBL.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/SFX/ABNSROW.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/SFX/ACLAP.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/SFX/ADEEPB.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/SFX/ANEWRW.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/SFX/AWARNING.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/SFX/AWARNING2.ogg</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Text/Font_Bold.spritefont</File>
+    <File>E:/Solutions/repos/Collapse/Collapse/Content/Text/Font_Regular.spritefont</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
